@@ -1,0 +1,16 @@
+stm32_mobilenet\network_data.o: ..\X-CUBE-AI\App\network_data.c
+stm32_mobilenet\network_data.o: ..\X-CUBE-AI\App\network_data.h
+stm32_mobilenet\network_data.o: ..\X-CUBE-AI\App\network_config.h
+stm32_mobilenet\network_data.o: ..\X-CUBE-AI\App\network_data_params.h
+stm32_mobilenet\network_data.o: ..\Middlewares\ST\AI\Inc\ai_platform.h
+stm32_mobilenet\network_data.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+stm32_mobilenet\network_data.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+stm32_mobilenet\network_data.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\inttypes.h
+stm32_mobilenet\network_data.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+stm32_mobilenet\network_data.o: ..\Middlewares\ST\AI\Inc\ai_platform_interface.h
+stm32_mobilenet\network_data.o: ..\Middlewares\ST\AI\Inc\datatypes_network.h
+stm32_mobilenet\network_data.o: ..\Middlewares\ST\AI\Inc\ai_datatypes.h
+stm32_mobilenet\network_data.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+stm32_mobilenet\network_data.o: ..\Middlewares\ST\AI\Inc\ai_datatypes_format.h
+stm32_mobilenet\network_data.o: ..\Middlewares\ST\AI\Inc\ai_datatypes_defines.h
+stm32_mobilenet\network_data.o: ..\Middlewares\ST\AI\Inc\formats_list.h
